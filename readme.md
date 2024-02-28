@@ -6,14 +6,15 @@ A simple Node.js application to track real-time stock prices and gain insights i
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/stock-price-tracker.git
+   git clone https://github.com/Adarshkds/Realtime-Stock-Prices.git
    cd Realtime-Stock-Prices
    ```
 
 2. **Install Dependencies:**
    Run the following command to install all required packages.
    ```bash
-   npm install
+   npm init -y
+   npm i express ejs axios cheerio
    ```
 
 ## Usage
